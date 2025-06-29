@@ -66,7 +66,7 @@ Blothera is a custom, fully plugin-powered Minecraft survival server that embrac
 
 ## 🏰 Nations & War System
 
-> Diplomacy, war, betrayal — all without a single command.
+> Diplomacy, war, betrayal. All without a single command.
 
 - **Form a Nation**: With a Dragon Egg and a Crown, using custom lectern-based books  
 - **Structured Wars**: PvP is opt-in via scheduled battles only  
