@@ -3,7 +3,8 @@
 > *"Blothera isn’t a game mode. It’s a living, breathing world. And survival must be earned."*
 
 ---
-
+> View the [YouTube Playlist!](https://youtu.be/zZ7GrXQGrSw?si=8b63ijM0ftCBXK2S)
+---
 
 ## 🧭 What is Blothera?
 
