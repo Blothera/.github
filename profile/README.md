@@ -114,9 +114,7 @@ Blothera is a custom, fully plugin-powered Minecraft survival server that embrac
 
 Blothera is over a **decade** in the making:
 
-- 🏰 **2012–2015** – *Blothera Kingdom*  
-- 🗺️ **2016–2017** – *Blothera in Civcraft*  
-- 🌐 **2019–2020** – *The Atlas Era*  
+- 🏰 **2012–2020** – *Blothera Kingdom*  
 - 🌋 **2025–Present** – *Blothera Today*  
   - Custom plugins  
   - No datapacks  
