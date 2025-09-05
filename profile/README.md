@@ -1,20 +1,18 @@
 # 🌍 Welcome to Blothera
 
-> *"Blothera isn’t a game mode. It’s a living, breathing world. And survival must be earned."*
-
 ---
 ### View the [YouTube Playlist!](https://www.youtube.com/playlist?list=PLk1dhtMgE28ksUcDVe-ZbZQ1fidkKe_zk)
 ---
 
 ## 🧭 What is Blothera?
 
-Blothera is a custom, fully plugin-powered Minecraft survival server that embraces **hardcore, immersive gameplay** with real consequences. There's no pay-to-win, no kits, no handouts, just a brutal, evolving sandbox where *every decision matters*.
+Blothera is a custom, fully plugin-powered Minecraft survival server that embraces **hardcore, immersive gameplay**. There's no pay-to-win, no kits, no handouts, just a brutal, evolving sandbox where *every decision matters*.
 
 > 🔥 Fire spreads.  
 > 💥 TNT explodes.  
 > ☠️ Death costs you Max Hearts.  
 > 🩸 BloodMoons rise.  
-> 🛡 Trust, diplomacy, and legacy define survival.
+> 🛡 Trust, diplomacy, and strategy define survival.
 
 ---
 
